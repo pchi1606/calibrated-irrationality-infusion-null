@@ -1,0 +1,43 @@
+{
+  "biases_passing_gate": 2,
+  "bootstrap_cis": {
+    "L0": [
+      0.338,
+      0.391
+    ],
+    "L1": [
+      0.417,
+      0.451
+    ],
+    "L2": [
+      0.399,
+      0.434
+    ],
+    "L3": [
+      0.404,
+      0.437
+    ]
+  },
+  "calibration_error": {
+    "L0": 0.358,
+    "L1": 0.437,
+    "L2": 0.416,
+    "L3": 0.418
+  },
+  "formulation_passes": {
+    "anchoring": 2,
+    "conjunction": 0,
+    "crt": 1,
+    "endowment": 0,
+    "framing": 2
+  },
+  "l0_magnitudes": {
+    "anchoring": 0.919,
+    "conjunction": 0.067,
+    "crt": 0.6,
+    "endowment": 0.079,
+    "framing": 0.433
+  },
+  "n_records": 960,
+  "overall_parse": 0.940625
+}

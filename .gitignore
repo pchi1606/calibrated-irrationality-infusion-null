@@ -1,0 +1,5 @@
+results/pilot_summary.json
+paper/figures/fig_bias_magnitudes.png
+__pycache__/
+*.pyc
+.venv/
